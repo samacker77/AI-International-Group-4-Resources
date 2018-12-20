@@ -8,6 +8,7 @@
 
 # Important Links - 
 * Join our WhatsApp group - https://chat.whatsapp.com/DGERKi6CWsc0MeuPs0fnOw
+* Join Facebook group - http://bit.ly/AI_Face
 * To get access of material, please fill the form - https://goo.gl/forms/FUQFqaQommAHtTPD3
 * Github Resources Repo - https://goo.gl/92ZsLL
 * Github Organization - https://goo.gl/pivuAS
